@@ -1,6 +1,6 @@
 # Computer Vision Lip Reader
 
-This is a computer vision based lip reader that is able to detect lip movements in real time. It uses a 3D Convolutional Neural Network (CNN) to analyze temporal and spatial features of lip movements, allowing it to classify spoken words directly from a video feed.
+This is a computer vision based lip reader that is able to detect lip movements in real time. It uses a 3D Convolutional Neural Network (CNN) to analyze temporal and spatial features of lip movements, allowing it to classify spoken words directly from live video feed.
 
 ## What it does
 
